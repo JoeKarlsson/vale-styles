@@ -1,0 +1,5 @@
+bad.md JoeKarlsson.BannedWords
+bad.md JoeKarlsson.AbstractReveal
+bad.md JoeKarlsson.VagueAttribution
+bad.md JoeVideo.VideoOpenings
+bad.md JoeVideo.RuntimePromises

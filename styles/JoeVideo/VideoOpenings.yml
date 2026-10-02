@@ -1,0 +1,12 @@
+extends: existence
+message: "Video opening or cliche: '%s'. Start with the actual point."
+level: error
+ignorecase: true
+tokens:
+  - 'hey everyone'
+  - 'hey guys'
+  - "in today's video"
+  - "today we're going to"
+  - 'today we will'
+  - "don't forget to like and subscribe"
+  - 'make sure to like'
