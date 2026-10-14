@@ -3,3 +3,5 @@ bad.md JoeKarlsson.AbstractReveal
 bad.md JoeKarlsson.VagueAttribution
 bad.md JoeVideo.VideoOpenings
 bad.md JoeVideo.RuntimePromises
+bad.md JoeKarlsson.Punctuation
+bad.md JoeKarlsson.AIFiller

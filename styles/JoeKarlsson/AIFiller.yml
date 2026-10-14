@@ -10,6 +10,8 @@ tokens:
   - "it's important to note"
   - 'it is important to note'
   - 'as previously mentioned'
+  # Constructed-casual: signals honesty, reads as AI (Joe, 2026-09-17).
+  - "that['’]s real information"
   - 'as we discussed'
   - 'needless to say'
   - 'interestingly'

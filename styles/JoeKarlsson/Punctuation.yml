@@ -1,7 +1,10 @@
 extends: existence
-message: "Em dash found. Use a comma, colon, or period instead."
+message: "Em dash found. Never use one: use a comma, colon, semicolon or period, or rewrite the sentence."
 level: error
-scope: heading
-raw:
+# nonword: without it Vale wraps each token in word boundaries, and a dash
+# between spaces never matches. It used to be scope: heading, so body text got
+# no alert at all on joekarlsson.com (2026-10-14). En dashes stay allowed (ranges).
+nonword: true
+tokens:
   - '—'
   - ' -- '
