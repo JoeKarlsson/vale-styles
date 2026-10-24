@@ -1,5 +1,6 @@
 # Abstract-noun reveals: a sentence that builds up to naming "the key thing"
 # instead of saying the concrete thing (Joe, 2026-10-02, social posts).
+# Also "that's the whole scene/thing/review" wrap-ups (Joe, 2026-10-24: banned).
 extends: existence
 message: "Abstract reveal: '%s'. Say the concrete thing that happened instead of announcing what matters."
 level: error
@@ -12,3 +13,4 @@ tokens:
   - '\bthe (?:real|big|actual) (?:unlock|win|story|lesson|insight)\b'
   - "\\bhere'?s the (?:thing|deal|kicker|twist|key|secret)\\b"
   - '\bthe (?:secret|trick) is\b'
+  - "\\bthat['’]?s (?:the|this) whole (?:scene|thing|movie|film|review|point|joke|story|plot|bit|game|trick|idea)\\b"
