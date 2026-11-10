@@ -1,0 +1,12 @@
+extends: existence
+message: "Vague outcome: '%s'. Say what changed and by how much, or cut the claim."
+level: warning
+ignorecase: true
+tokens:
+  - 'create value'
+  - 'value-added'
+  - 'boosts? performance'
+  - 'enhances? productivity'
+  - 'improves? results'
+  - 'increases? impact'
+  - 'drives? impact'

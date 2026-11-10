@@ -36,3 +36,20 @@ tokens:
   - 'work smarter'
   - 'drive efficiency'
   - 'maximize roi'
+  # From the marketing tone-filter skill (Joe 2026-11-10): manufactured urgency,
+  # promise verbs that teach nothing, and tired AI tropes.
+  - "don't miss out"
+  - 'reserve your spot'
+  - 'spots are filling'
+  - 'limited[- ]time (?:offer|opportunity)'
+  - 'this is your chance'
+  - 'discover how to'
+  - 'dive into'
+  - 'get insights into'
+  - 'the future is here'
+  - 'the ai revolution'
+  - 'do more with less'
+  - 'the ultimate guide to'
+  - 'digital transformation journey'
+  - 'feels illegal to know'
+  - "don't hate me,? but"

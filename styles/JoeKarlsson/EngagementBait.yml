@@ -7,3 +7,7 @@ tokens:
   - '\bagree\?'
   - '\bthoughts\?'
   - '\bwhat do you think\?'
+  - "\\btell me i'm wrong\\b"
+  - '\btag someone who\b'
+  - '\bsend this to (?:one|a) (?:person|friend)\b'
+  - "\\bhere's your sign to\\b"
