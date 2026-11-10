@@ -5,3 +5,5 @@ bad.md JoeVideo.VideoOpenings
 bad.md JoeVideo.RuntimePromises
 bad.md JoeKarlsson.Punctuation
 bad.md JoeKarlsson.AIFiller
+bad.md JoeKarlsson.BannedOpenings
+bad.md JoeKarlsson.EngagementBait

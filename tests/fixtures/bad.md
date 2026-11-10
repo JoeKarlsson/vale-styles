@@ -11,3 +11,7 @@ The rollout went fine — mostly.
 That’s real information.
 
 They move seats, and that's the whole scene.
+
+Real talk, the cache was the problem.
+
+The cache was the problem. Agree?

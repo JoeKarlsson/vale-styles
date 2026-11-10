@@ -1,0 +1,9 @@
+extends: existence
+message: "Engagement bait: '%s'. End on the point; people reply when there's something to answer."
+level: error
+ignorecase: true
+nonword: true
+tokens:
+  - '\bagree\?'
+  - '\bthoughts\?'
+  - '\bwhat do you think\?'
